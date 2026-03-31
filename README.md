@@ -1,5 +1,6 @@
-# unix-knowledge-repo
-My beginner notes about UNIX shells, commands, and shell scripting. This repository contains my beginner notes about UNIX shells, shell types, basic commands, and scripting.
+# UNIX Knowledge Repo
+
+This repository contains my beginner notes about UNIX shells, shell types, basic commands, and scripting.
 
 ## Topics covered
 - What is a UNIX shell
@@ -28,5 +29,4 @@ I am currently learning UNIX step by step and using this repository to organize 
 - The Knowledge Academy: [Types of Shell in UNIX](https://www.theknowledgeacademy.com/blog/types-of-shell-in-unix/)
 - Linux Handbook: [What is Zsh?SHould You Use it](https://linuxhandbook.com/why-zsh/)
 - [Computing Information for Stanford Linguists](https://mally.stanford.edu/~sr/computing/basic-unix.html)
-
 
