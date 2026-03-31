@@ -30,7 +30,7 @@ cd Documents
 ## Short notes
 
 ### sh
-First introduced with Version 7 UNIX in 1979, the Bourne Shell (commonly referred to as sh) quickly became the foundation of UNIX shell scripting. As one of the earliest shells, it provided a powerful programming environment featuring variables, control structures, and built-in operators. Its straightforward design made it highly accessible, leading to widespread use across UNIX systems. For a handy overview of key commands, check out [basic-shell-commands](/notes/Users/hazwanjaafar/Documents/GITHUB/unix-knowledge-repo/notes/03-basic-shell-commands.md) for quick guidance and reference.
+First introduced with Version 7 UNIX in 1979, the Bourne Shell (commonly referred to as sh) quickly became the foundation of UNIX shell scripting. As one of the earliest shells, it provided a powerful programming environment featuring variables, control structures, and built-in operators. Its straightforward design made it highly accessible, leading to widespread use across UNIX systems. For a handy overview of key commands, check out *basic-shell-commands* for quick guidance and reference.
 
 ### csh
 Developed at the University of California, Berkeley in the late 1970s, the C Shell (csh) was designed to improve user experience. Its syntax closely resembles the C programming language, making it intuitive for programmers familiar with C. Features such as job control and command history added interactivity and convenience. Despite these strengths, csh has often been criticized for scripting inconsistencies, which limited its popularity for automation tasks. Still, many users valued its interactive capabilities. For those preparing for technical interviews, reviewing Unix Interview Questions can provide deeper insights.
